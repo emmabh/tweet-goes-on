@@ -1,0 +1,414 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 6200,
+            "max": [
+                0.322452187538147,
+                0.6701798439025879,
+                0.27768200635910034
+            ],
+            "min": [
+                -0.322452187538147,
+                -2.2351741790771484e-08,
+                -0.27768203616142273
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 6200,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 6200,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5123,
+            "count": 17193,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5123,
+            "count": 17193,
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "generator": "Adobe Creative Cloud",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 74400
+        },
+        {
+            "buffer": 0,
+            "byteLength": 49600,
+            "byteOffset": 74400
+        },
+        {
+            "buffer": 0,
+            "byteLength": 74400,
+            "byteOffset": 124000
+        },
+        {
+            "buffer": 0,
+            "byteLength": 34386,
+            "byteOffset": 198400
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 232786
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 232792
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 232798
+        },
+        {
+            "buffer": 0,
+            "byteLength": 34386,
+            "byteOffset": 232804
+        },
+        {
+            "buffer": 0,
+            "byteLength": 347525,
+            "byteOffset": 267192
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6673,
+            "byteOffset": 614717
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 621390,
+            "uri": "cher.bin"
+        }
+    ],
+    "extensionsRequired": [
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform"
+    ],
+    "extensionsUsed": [
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform"
+    ],
+    "images": [
+        {
+            "bufferView": 8,
+            "mimeType": "image/png",
+            "name": "Layer 0 copy.PNG"
+        },
+        {
+            "bufferView": 9,
+            "mimeType": "image/png",
+            "name": "Layer 0 copy Extrusion Material - Default Texture.PNG"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Layer 0 copy Front Inflation Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                5.142856934980955e-06,
+                                0.08880534768104553
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.9200519919395447,
+                                0.7785152196884155
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Layer 0 copy Front Bevel Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                5.142856934980955e-06,
+                                0.08880534768104553
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.9200519919395447,
+                                0.7785152196884155
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Layer 0 copy Extrusion Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Layer 0 copy Back Bevel Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                5.142856934980955e-06,
+                                0.08880534768104553
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.9200519919395447,
+                                0.7785152196884155
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Layer 0 copy Back Inflation Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                5.142856934980955e-06,
+                                0.08880534768104553
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.9200519919395447,
+                                0.7785152196884155
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Layer 0 copy",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 3,
+                    "material": 0,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 4,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 5,
+                    "material": 2,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 6,
+                    "material": 3,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 7,
+                    "material": 4,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "matrix": [
+                0.0008552080253139138,
+                7.394671411020681e-05,
+                -0.0005317562608979642,
+                0.0,
+                -0.0003712059697136283,
+                0.0008039934327825904,
+                -0.0004851953126490116,
+                0.0,
+                0.0003878648276440799,
+                0.0006064160261303186,
+                0.0007081206422299147,
+                0.0,
+                -0.15801097452640533,
+                -0.09855715930461884,
+                0.3758833706378937,
+                0.9999999403953552
+            ],
+            "mesh": 0,
+            "name": "Layer 0 copy"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0
+        },
+        {
+            "source": 1
+        }
+    ]
+}
